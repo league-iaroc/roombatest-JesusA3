@@ -32,7 +32,8 @@ public class Challenge extends Head {
 			sleep(600);
 			
 			goStraight(5000);
-			
+		
+		
 			if(isBumpedRight()) {
 				driveDirect(speed,10);
 				sleep(600);
@@ -40,5 +41,7 @@ public class Challenge extends Head {
 				goStraight(1000000000);
 	}
 } 
-		} 
-	}
+		} }
+   
+      
+
